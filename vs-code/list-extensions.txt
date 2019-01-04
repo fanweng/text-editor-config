@@ -1,5 +1,6 @@
 $ code --list-extensions
 
+Equinusocio.vsc-material-theme
 ms-python.python
 ms-vscode.cpptools
 PKief.material-icon-theme
