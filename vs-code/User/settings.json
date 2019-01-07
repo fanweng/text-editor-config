@@ -1,4 +1,6 @@
 {
     "workbench.iconTheme": "eq-material-theme-icons-ocean",
-    "workbench.colorTheme": "Material Theme Ocean"
+    "workbench.colorTheme": "Material Theme Ocean",
+    "editor.renderWhitespace": "none",
+    "editor.rulers": [80,120]
 }
