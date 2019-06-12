@@ -28,3 +28,9 @@ set statusline=%F%m%r%h%w\[POS=%l,%v][%p%%]\%{strftime(\"%d/%m/%y\ -\ %H:%M\")}
 
 " Show status always
 set laststatus=2
+
+" Set a tab to 4 white spaces
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set softtabstop=4
