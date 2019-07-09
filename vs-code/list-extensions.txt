@@ -5,3 +5,4 @@ ms-python.python
 ms-vscode.cpptools
 PKief.material-icon-theme
 shd101wyy.markdown-preview-enhanced
+vscodevim.vim
