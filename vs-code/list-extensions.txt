@@ -7,3 +7,4 @@ PKief.material-icon-theme
 shd101wyy.markdown-preview-enhanced
 vscodevim.vim
 aaron-bond.better-comments
+truefire.lilypond
