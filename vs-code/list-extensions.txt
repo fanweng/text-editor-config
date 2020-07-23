@@ -1,10 +1,15 @@
 $ code --list-extensions
 
+aaron-bond.better-comments
+austin.code-gnu-global
+Equinusocio.vsc-community-material-theme
 Equinusocio.vsc-material-theme
+equinusocio.vsc-material-theme-icons
+mhutchie.git-graph
 ms-python.python
 ms-vscode.cpptools
 PKief.material-icon-theme
 shd101wyy.markdown-preview-enhanced
-vscodevim.vim
-aaron-bond.better-comments
+torn4dom4n.latex-support
 truefire.lilypond
+vscodevim.vim
