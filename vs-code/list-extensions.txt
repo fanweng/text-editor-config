@@ -10,6 +10,7 @@ ms-python.python
 ms-vscode.cpptools
 PKief.material-icon-theme
 shd101wyy.markdown-preview-enhanced
+tchayen.markdown-links
 torn4dom4n.latex-support
 truefire.lilypond
 vscodevim.vim
