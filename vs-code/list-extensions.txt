@@ -16,6 +16,7 @@ ms-vscode.cpptools
 PKief.material-icon-theme
 shd101wyy.markdown-preview-enhanced
 tchayen.markdown-links
+tomoki1207.pdf
 torn4dom4n.latex-support
 truefire.lilypond
 vscodevim.vim
