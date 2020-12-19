@@ -1,8 +1,12 @@
 {
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Material Theme Ocean",
+    "workbench.colorTheme": "Community Material Theme Ocean",
     "editor.renderWhitespace": "none",
     "editor.rulers": [80,120],
     "editor.wordWrap": "on",
-    "terminal.integrated.fontFamily": "Meslo LG M for Powerline"
+    "terminal.integrated.fontFamily": "Meslo LG M for Powerline",
+    "todo-tree.tree.showScanModeButton": false,
+    "workbench.colorCustomizations": {
+        "[Material Theme]": {}
+    }
 }
